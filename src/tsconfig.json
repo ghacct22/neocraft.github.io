@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"inlineSourceMap": true,
+		"module": "commonjs",
+		"noImplicitAny": false,
+		"target": "ES5"
+	}
+}
